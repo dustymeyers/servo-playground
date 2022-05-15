@@ -1,2 +1,2 @@
 # servo-playground
-Sandbox for playing with Servo Motors on Pi
+Sandbox for playing with Servo Motors through Raspberry Pi
